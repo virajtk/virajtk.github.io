@@ -1,2 +1,1 @@
->>> ng new vlad-profilo
->>> ng serve --o
+Official portfolio of Viraj Konthasinghe
