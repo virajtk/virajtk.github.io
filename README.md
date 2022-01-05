@@ -1,1 +1,2 @@
-# virajtk.github.io
+>>> ng new vlad-profilo
+>>> ng serve --o
